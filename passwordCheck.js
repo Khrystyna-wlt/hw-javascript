@@ -14,3 +14,4 @@ function checkPasswordStrength(password) {
     }
     return "Weak";
 }
+//good work!
